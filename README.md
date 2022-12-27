@@ -17,5 +17,3 @@ I'm currently a Computer Science student working on improving my skills with Jav
 
 ---
 [![](https://visitcount.itsvg.in/api?id=okutluel&icon=2&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
