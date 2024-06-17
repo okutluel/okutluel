@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Computer Science student working on improving my skills with Java, CSS, HTML, JavaScript, and Deluge. Open to work opportunities, and looking forward to a future as a developer!
+I'm currently a Dev working on improving my skills with Java, CSS, HTML, JavaScript, and Deluge. Open to work opportunities, and looking forward to making contact!
 
 
 ## 🌐 Socials:
